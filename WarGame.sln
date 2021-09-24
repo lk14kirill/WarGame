@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarGame", "WarGame\WarGame.csproj", "{7432C6D4-9678-4D8E-AA08-49E340B7B873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7432C6D4-9678-4D8E-AA08-49E340B7B873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7432C6D4-9678-4D8E-AA08-49E340B7B873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7432C6D4-9678-4D8E-AA08-49E340B7B873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7432C6D4-9678-4D8E-AA08-49E340B7B873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7B8D4A-0775-4EB0-A093-13FC1CEC2FDC}
+	EndGlobalSection
+EndGlobal
